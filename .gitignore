@@ -1,0 +1,8 @@
+*~
+.*.swp
+cache/
+credentials/
+data/
+my_info.json
+client_secrets_demo.json
+client_secrets_mine.json
